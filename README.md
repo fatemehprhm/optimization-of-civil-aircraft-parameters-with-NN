@@ -1,8 +1,8 @@
-# Aircraft Parameter Optimization Using Neural Networks
+# Aircraft Parameter prediction Using Neural Networks
 
 ## Overview
 
-This project focuses on optimizing initial civil aircraft design parameters in the early stages of aircraft design using neural networks. The system predicts various aircraft characteristics based on passenger capacity and range, providing more accurate estimates than traditional statistical methods.
+This project focuses on predicting initial civil aircraft design parameters in the early stages of aircraft design using neural networks. The system predicts various aircraft characteristics based on passenger capacity and range, providing more accurate estimates than traditional statistical methods.
 
 ## Problem Statement
 
